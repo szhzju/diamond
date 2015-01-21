@@ -1,5 +1,5 @@
 # diamond
 
-新人练手~~
+It feels like writing a sugar letter!~~
 
 
